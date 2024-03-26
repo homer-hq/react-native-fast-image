@@ -35,7 +35,7 @@
         "lint": "dv-scripts lint",
         "release": "dv-scripts release",
         "test": "dv-scripts test",
-        "prepare": "yarn build"
+        "prepare": "yarn build --silent"
     },
     "prettier": {
         "semi": false,
